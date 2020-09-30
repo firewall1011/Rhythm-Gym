@@ -1,0 +1,44 @@
+{
+    "name": "Actions",
+    "maps": [
+        {
+            "name": "Supino",
+            "id": "f483db39-19c3-48d4-b2e4-6a7d525ffd85",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "f2dcccf1-9b06-4a08-80ef-c00a036bfb26",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9b2cde88-c634-46ad-bd30-891ecb33e77b",
+                    "path": "<Touchscreen>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6dfd4cf2-5355-47fc-95f9-bce1b9245ce3",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
